@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x/4+ZgN97LOJlc5MUK3DrUIMWNoNaVSXQvSOg+qgWN0=",
+  "Source": "API_CreditCard",
+  "BasePath": "_content/API_CreditCard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
